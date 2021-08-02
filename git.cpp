@@ -15,4 +15,8 @@ int main()
 	cin >> idade;
 	cout << "Informe seu nome: ";
 	cin >> n;
+	cout << "Sua idade = " << idade << endl;
+	cout << "Nome " << n;
+	
+	return 0;
 }
