@@ -13,4 +13,6 @@ int main()
 	cout << "Seja Bem Vindo" <<  endl ;
 	cout << "Digite sua idade : ";
 	cin >> idade;
+	cout << "Informe seu nome: ";
+	cin >> n;
 }
